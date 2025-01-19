@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @rupeshpal49gmail
+- 👋 Hi, I’m Rupesh Pal
 - 👀 Working Web/App developer 
-- 🌱 I’m currently learning React, Redux, Flutter, and PWA
+- 🌱 I’m currently learning React, Redux, Flutter, and MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Through mail- rupeshpal49@gmail.com and contact- 7898498256
 
